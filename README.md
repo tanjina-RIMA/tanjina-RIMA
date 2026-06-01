@@ -1,4 +1,4 @@
-## HI,i am Tanjina
+## HI,I am Tanjina
 * 🎓 Computer Science and Engineering student passionate about software development
 * 💻 Interested in building real-world applications and solving programming problems
 * 🧠 Strong focus on improving problem-solving and algorithmic thinking
